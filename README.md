@@ -3,7 +3,7 @@
 
 an extention to [//ZEED](https://github.com/Az-Neter/AzNet-ZEED) 
 
-## Desciption & Planned Features
+## Description & Planned Features
 
 a Cyberpunk-themed Terminal & Client-Based 2D ASCII MMORPG
 
