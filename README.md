@@ -51,4 +51,4 @@ RSA/PGP keypairs, bash scripting, Encryption, AI, automation, client/server host
  
 
 IN-PROGRESS  
-Reference MASTER repository for development information ([Private to Az:Net members](https://github.com/Az-Net/Az-Net))
+Reference MASTER repository for development information.
