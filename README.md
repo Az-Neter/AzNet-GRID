@@ -3,6 +3,18 @@
 
 an extention to [//ZEED](https://github.com/Az-Neter/AzNet-ZEED) 
 
+
+## Building and running
+From inside the source folder hit:
+```
+go run ./.
+```
+from a seperate terminal ping:
+
+```
+telnet localhost 77
+```
+
 ## Description & Planned Features
 
 a Cyberpunk-themed Terminal & Client-Based 2D ASCII MMORPG
